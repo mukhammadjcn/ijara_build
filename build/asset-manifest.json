@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bd10963.css",
+    "main.css": "/static/css/main.8b148ff9.css",
     "main.js": "/static/js/main.3d5127f1.js",
-    "static/media/intro.webp": "/static/media/intro.1fb19b75db226df613ae.webp",
+    "static/media/bg.jpg": "/static/media/bg.d988e291b4eb623b1601.jpg",
     "static/media/tick.png": "/static/media/tick.b9c4d65f19d244fad43e.png",
     "static/media/ijara.edu.uz.png": "/static/media/ijara.edu.uz.8a812901e644b2e63bc5.png",
     "static/media/location.png": "/static/media/location.4a88da64eb93d5791a18.png",
@@ -12,11 +12,11 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.2bd10963.css.map": "/static/css/main.2bd10963.css.map",
+    "main.8b148ff9.css.map": "/static/css/main.8b148ff9.css.map",
     "main.3d5127f1.js.map": "/static/js/main.3d5127f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bd10963.css",
+    "static/css/main.8b148ff9.css",
     "static/js/main.3d5127f1.js"
   ]
 }
