@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.453e5b4b.css",
-    "main.js": "/static/js/main.4ff3e63c.js",
+    "main.js": "/static/js/main.272ed826.js",
     "static/media/bg.jpg": "/static/media/bg.d988e291b4eb623b1601.jpg",
     "static/media/tick.png": "/static/media/tick.b9c4d65f19d244fad43e.png",
     "static/media/ijara.edu.uz.png": "/static/media/ijara.edu.uz.8a812901e644b2e63bc5.png",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.453e5b4b.css",
-    "static/js/main.4ff3e63c.js"
+    "static/js/main.272ed826.js"
   ]
 }
